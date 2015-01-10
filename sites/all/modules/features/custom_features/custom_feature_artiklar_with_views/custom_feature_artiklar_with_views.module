@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the custom_feature_artiklar_with_views feature.
+ */
+
+include_once 'custom_feature_artiklar_with_views.features.inc';
